@@ -1,2 +1,4 @@
-# hack_gmail
-My script generates a random word And he tests it on any email you choose
+# script on python
+There is no problem in the script
+If there is any problem, check
+Spaces in your code editor 
