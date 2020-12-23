@@ -1,3 +1,4 @@
+#by electro-333
 from random import *
 import os
 import smtplib
@@ -25,7 +26,7 @@ while True:
 	guess=""
 	
 	for i in range(randint(4,8)):
-		guess_letter = password[randint(0,25)]
+		guess_letter = password[randint(0,35)]
 		guess=str(guess_letter) +str(guess)
 	
 	try:
